@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Rachel! 🙋🏽‍♀️
 
-<!--
-**rachelgapasin/rachelgapasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Aspiring Data Analyst** | Lifelong Learner  
+🛠️ Skilled in **Excel, SQL, Python, and R**  
+📜 **Google Data Analytics Professional Certificate** Holder  
+📌 **CompTIA Data+ Certification** (In Progress...)  
+🚀 Passionate about **data storytelling, problem-solving, and continuous learning**  
+🤝 Always open to **collaborations and new opportunities**  
 
-Here are some ideas to get you started:
+### 🔧 Technologies & Tools
+- **Data Analysis:** SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), R  
+- **Visualization:** Tableau, Excel, Google Sheets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachelgapasin)
+
+💡 *Check out my repositories for projects I've been working on!* 🚀
