@@ -1,7 +1,7 @@
 ### Hi there, I'm Rachel! 🙋🏽‍♀️
 
 📊 **Aspiring Data Analyst** | Lifelong Learner  
-🛠️ Skilled in **Excel, SQL, Python, and R**
+🛠️ Skilled in **Excel, SQL, Python, and R**  
 📜 **CompTIA Data+ Certification** Holder  
 📜 **Google Data Analytics Professional Certificate** Holder  
 🚀 Passionate about **data storytelling, problem-solving, and continuous learning**  
